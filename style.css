@@ -1,0 +1,43 @@
+body{
+    background-color: #F7F3E3;
+}
+.centered-items{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+h1{
+    font-size: 200%;
+    color: #6F1A07;
+}
+div{
+    margin: 1rem;
+    
+}
+input{
+    font-size: 150%;
+}
+.add-task{
+    
+    font-size: 150%;
+}
+button{
+    background-color: #ECF0F1;
+    border-radius: 1rem;
+    margin:0rem 1rem;
+}
+ul{
+    font-size: 150%;
+    list-style-image: linear-gradient(to left bottom, #A8763E, #2B2118);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #2B2118 ;
+    padding: 1rem;
+    margin: 20px auto;
+}
+li{
+    padding: 1rem;
+    margin: 1rem;
+}
+
